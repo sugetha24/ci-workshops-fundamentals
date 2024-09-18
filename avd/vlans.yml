@@ -15,4 +15,4 @@ vlans:
   - 80:
     name: Eighty
   - 90:
-    name: Eighty
+    name: Ninety
