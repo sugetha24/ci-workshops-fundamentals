@@ -14,5 +14,5 @@ vlans:
     name: Seventy
   - 80:
     name: Eighty
-  - 90:
+  - 100:
     name: Hundred
